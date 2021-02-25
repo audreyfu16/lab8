@@ -27,7 +27,6 @@ function initGestures() {
 			console.log("got prefix: " + targetIDPrefix);
 			//show io
 			$("#" + targetIDPrefix + "-bio").show();
-
 		}
 	});
 }
